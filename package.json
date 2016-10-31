@@ -1,0 +1,22 @@
+{
+  "name": "wk03sprint01_object_creational_patterns",
+  "version": "1.0.0",
+  "description": "#### Goals",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha spec/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoofman/wk03sprint01_object_creational_patterns.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoofman/wk03sprint01_object_creational_patterns/issues"
+  },
+  "homepage": "https://github.com/hoofman/wk03sprint01_object_creational_patterns#readme",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
